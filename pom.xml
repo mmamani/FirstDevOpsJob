@@ -8,7 +8,7 @@
 		<version>2.3.8.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>3.145.183.198:8080</groupId>
+	<groupId>aforo255.com</groupId>
 	<artifactId>FirstDevopsJob</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>FirstDevopsJob</name>
@@ -45,7 +45,7 @@
 	</build>
 	
 	
-<!--<packaging>${packaging.type}</packaging>	
+<packaging>${packaging.type}</packaging>	
 <profiles>
    <profile>
        <id>jar</id>
@@ -68,6 +68,6 @@
             </dependency>
        </dependencies>
    </profile>
-</profiles> -->
+</profiles>
 
 </project>
